@@ -3,7 +3,7 @@ Aura is a free browser based on the Python programming language.
 You can modify the source code and add or remove what you want.
 Based on this code, you can create your own browser.
 
-© Andboogl, 2024
+© Andboogl, Andrii Beznosov, 2024
 """
 
 

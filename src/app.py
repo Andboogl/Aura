@@ -1,6 +1,6 @@
 """
 This module is responsible for the main window of the program.
-© Andboogl, 2024
+© Andboogl, Andrii Beznosov, 2024
 """
 
 
